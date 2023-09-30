@@ -1,9 +1,14 @@
 # restriction-Paid-Membresship-Pro
 Plugin Name: Restricción de Contenido Paid Membership pro
+
 Plugin URI: http://ajamba.org 
+
 Description: Restringe el contenido de los en base a la fecha de la compra de la membresia.
+
 Version: 1.0
+
 Author: Ing. Edward Avalos
+
 Author URI: https://www.linkedin.com/in/edward-avalos-severiche/
 
 
